@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketshukla14&label=Profile%20views&color=0e75b6&style=flat" alt="aniketshukla14" /> </p>
 
-- 🌱 I’m currently learning **Data analytics, Machine Learning**
+- 🌱 I’m currently learning **Data analysis**
 
 - 👨‍💻 All of my projects are available at [https://aniketshukla14.github.io/Aniket-Shukla/](https://aniketshukla14.github.io/Aniket-Shukla/)
 
