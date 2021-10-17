@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data analysis**
 
-- 👨‍💻 All of my projects are available at [https://aniketshukla14.github.io/Aniket-Shukla/](https://aniketshukla14.github.io/Aniket-Shukla/)
+- 👨‍💻 All of my details are available at [https://aniketshukla14.github.io/Aniket-Shukla/](https://aniketshukla14.github.io/Aniket-Shukla/)
 
 - 📝 I regularly write articles on [#coming soon](#coming soon)
 
 - 📫 How to reach me **aniket14042001@gmail.com**
 
-- 📄 Know about my experiences [#resume Getting ready](#resume Getting ready)
+<!--- 📄 Know about my experiences [#resume Getting ready](#resume Getting ready)-->
 
 - ⚡ Fun fact **one million earth can fit inside a sun**
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
