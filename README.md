@@ -13,7 +13,7 @@
 
 <!--- 📄 Know about my experiences [#resume Getting ready](#resume Getting ready)-->
 
-- <!--⚡ Fun fact **one million earth can fit inside a sun**
+  <!--⚡ Fun fact **one million earth can fit inside a sun**
   <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
   
   -->
