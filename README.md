@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data analysis**
 
-- 👨‍💻 All of my details are available at [https://aniketshukla14.github.io/Aniket-Shukla/](http://www.aniketshukla.live/)
+- 👨‍💻 All of my details are available at [http://www.aniketshukla.live/](http://www.aniketshukla.live/)
 
 - 📝 I regularly write articles on [#coming soon](#coming soon)
 
