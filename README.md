@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [#resume Getting ready](#resume Getting ready)
 
-- <!--⚡ Fun fact **one million earth can fit inside a sun**-->
+ <!--⚡ Fun fact **one million earth can fit inside a sun**-->
  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
 
 <h3 align="left">Connect with me:</h3>
@@ -37,5 +37,5 @@
 
 
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ankur-Khandelwal&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankur-Khandelwal&layout=compact&langs_count=8&count_private=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketshukla14&show_icons=true&locale=en&layout=compact"/>&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankur-Khandelwal&layout=compact&langs_count=8&count_private=true&theme=radical"/>
 
