@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data analytics, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [http://www.aniketshukla.live/](http://www.aniketshukla.live/)
+- 👨‍💻 All of my projects are available at <!--[http://www.aniketshukla.live/](http://www.aniketshukla.live/)-->
 
 - 📝 I regularly write articles on [#coming soon](#coming soon)
 
