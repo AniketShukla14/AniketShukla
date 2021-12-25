@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aniket14042001@gmail.com**
 
-- 📄 Know about my experiences [#resume Getting ready](#resume Getting ready)
+- 📄 Know about my experiences https://drive.google.com/file/d/1S4f0qgNxJzideEjoN6OHGOVXeQvrunAA/view?usp=sharing(#Aniket Resume)
 
  <!--⚡ Fun fact **one million earth can fit inside a sun**-->
  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="325"/>
