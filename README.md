@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.aniketshukla.live/](http://www.aniketshukla.live/)
 
-- 📝 <!--I regularly write articles on <!--[#coming soon](#coming soon)-->-->
+- 📝 <!--I regularly write articles on <!--[#coming soon](#coming soon)-->
 
 - 📫 How to reach me **aniket14042001@gmail.com**
 
