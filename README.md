@@ -32,4 +32,3 @@
 
 <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aniketshukla14&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>-->&nbsp;<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AniketShukla14&layout=compact&langs_count=8&count_private=true&theme=radical"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AniketShukla14)](https://github.com/AniketShukla14/github-profile-trophy)
