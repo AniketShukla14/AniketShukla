@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Shukla</h1>
-<h3 align="center">I am a Learner</h3>
+<h3 align="center">A Learner</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aniketshukla14&label=Profile%20views&color=0e75b6&style=flat" alt="aniketshukla14" /></p>
 
