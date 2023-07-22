@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=aniketshukla14&label=Profile%20views&color=0e75b6&style=flat" alt="aniketshukla14" /></p>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **How To Live :)**
 
 - 👨‍💻 My Portfolio Website [http://www.aniketshukla.live/](http://www.aniketshukla.live/)
 
